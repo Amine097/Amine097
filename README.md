@@ -1,16 +1,16 @@
-## Hi there 👋
+# Mohamed Amine Nouira
 
-<!--
-**Amine097/Amine097** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science student at EPFL, specialising in Computer Systems.
 
-Here are some ideas to get you started:
+I am interested in operating systems, networking, distributed systems,
+embedded Linux, and reliable systems software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+- Advanced Operating Systems, Advanced Networks & Distributed Systems
+- Teaching Assistant in Programming at EPFL
+- Building systems-oriented projects and a self-hosted homelab
+
+## Links
+
+- LinkedIn: [Mohamed Amine Nouira](https://www.linkedin.com/in/mohamed-amine-nouira-871467381/)
